@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Done/_Scenes/StarTrooper.unity
+  isLoaded: 1
+  isActive: 1
