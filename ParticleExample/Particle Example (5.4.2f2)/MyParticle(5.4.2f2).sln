@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyParticle(5.4.2f2).Plugins", "MyParticle(5.4.2f2).Plugins.csproj", "{9E4B1491-B2E5-B4C3-9E7F-A655F46001B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyParticle(5.4.2f2)", "MyParticle(5.4.2f2).csproj", "{0EA876E5-3544-34BD-6278-38F58A4296CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E4B1491-B2E5-B4C3-9E7F-A655F46001B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4B1491-B2E5-B4C3-9E7F-A655F46001B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4B1491-B2E5-B4C3-9E7F-A655F46001B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4B1491-B2E5-B4C3-9E7F-A655F46001B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA876E5-3544-34BD-6278-38F58A4296CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA876E5-3544-34BD-6278-38F58A4296CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA876E5-3544-34BD-6278-38F58A4296CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA876E5-3544-34BD-6278-38F58A4296CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
